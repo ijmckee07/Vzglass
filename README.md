@@ -1,2 +1,0 @@
-# Vzglass
-Valmaes Glass Art
